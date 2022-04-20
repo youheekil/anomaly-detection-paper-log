@@ -21,6 +21,6 @@ The more detailed information will be included once the paper is reviewed.
 [Reading Schedule](https://github.com/youheekil/anomaly-detection-paper-log/projects/1) can be checked. 
 
 
-### The idea of tracking papers on GitHub was originally from [codertimo/paper-log](https://github.com/codertimo/paper-log). 
+#### The idea of tracking papers on GitHub was originally from [codertimo/paper-log](https://github.com/codertimo/paper-log). 
  
 
