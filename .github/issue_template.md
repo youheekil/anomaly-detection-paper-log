@@ -1,9 +1,7 @@
 ---
 name: "Paper Review 🔬"
-about: 
-title: 
+title: ""
 labels: "paper"
-assignees: ""
 ---
 
 ## Summarization 👋
