@@ -7,7 +7,7 @@ Track learning history of Anomaly detection
 
 ### Purpose of the repo ✏️
 
-[anomaly-detection-paper-log]https://github.com/youheekil/anomaly-detection-paper-log) contains (1) source code for anomaly detection, (2) papers to read, (3) record things to learn from each paper and source code.
+[anomaly-detection-paper-log](https://github.com/youheekil/anomaly-detection-paper-log) contains (1) source code for anomaly detection, (2) papers to read, (3) record things to learn from each paper and source code.
 
 ### The list of paper is contained in issues ✏️
 
