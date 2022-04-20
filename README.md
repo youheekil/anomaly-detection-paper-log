@@ -1,9 +1,9 @@
 # anomaly-detection-paper-log
 Track learning history of Anomaly detection 
 
-## 소개 👋
+## Introduction 👋
 
-> **전체 논문 리스트는 [issue tab](https://github.com/youheekil/anomaly-detection-paper-log/issues)에서 보실 수 있습니다!**
+> **The list of paper can be checked at [issue tab](https://github.com/youheekil/anomaly-detection-paper-log/issues)**
 
 ### Purpose of the repo ✏️
 
